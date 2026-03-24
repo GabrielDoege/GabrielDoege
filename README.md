@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Gabriel Fernando Doege, tenho 22 anos e sou natural de Timbó/SC. Estou no último semestre de Engenharia de Software na UDESC e atuo como desenvolvedor de software, com experiência em PHP, Java, Laravel, JavaScript, PostgreSQL e MySQL. Tenho interesse em arquitetura de microsserviços, CI/CD com Docker e Jenkins, além de boas práticas de desenvolvimento. Busco constantemente aprender novas tecnologias e evoluir como profissional!
+Me chamo Gabriel Fernando Doege, tenho 22 anos e sou natural de Timbó/SC. Sou bacharel em Engenharia de Software pela Universidade do Estado de Santa Catarina e atuo como desenvolvedor de software, com experiência em PHP, Java, Laravel, JavaScript, PostgreSQL e MySQL. Tenho interesse em arquitetura de microsserviços, CI/CD com Docker e Jenkins, além de boas práticas de desenvolvimento. Busco constantemente aprender novas tecnologias e evoluir como profissional!
 
 ### 🌍 Redes Sociais
 
